@@ -1,4 +1,5 @@
 # AI-Yoga-Mentor
+#TAKE DATASET ON YOUR OWN, for Sample 2-3 images are provided , but the dataset of 82 classes of yoga poses are needed to be downloaded
 An application that helps you with your dialy yoga poses , helping in detection and correction of the poses .
 AI Yoga Mentor 🧘‍♀️🤖
 
